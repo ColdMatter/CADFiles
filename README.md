@@ -1,4 +1,4 @@
-CCM-CAD-Files
+CAD-Files
 ===========
 This is a repository for CAD drawings of hardware used in the Centre for Cold Matter, Imperial College London. 
 
